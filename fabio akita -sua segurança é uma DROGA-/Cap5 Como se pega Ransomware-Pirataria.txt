@@ -1,0 +1,211 @@
+Cap5 Como se pega Ransomware-Pirataria
+
+
+não usar SECURE ENCLAVE ou TPM 
+
+
+
+
+EVITE AO MAXIMO NÃO PEGAR MALWARE
+
+- baixar pirataria
+    - filmes e musica tem baixa probabilidade
+
+só se alguem descobri um bug nas bibliotecas que fazem deconding deles
+e injeta malware via algun tipo de 
+buffing overfowll
+
+
+o problema são os EXECUTAVEIS
+que normalmente vem ransomware-pirata
+
+gamers que instalam varias coisas
+provavelmente vc esta INFECTADO
+seu pc ests LENTO ...
+JÁ ERA
+
+
+as vezes não adianta baixar anti-virus
+uma vez infectado...JÁ ERA
+
+
+se vc quiser testar !!
+tem varios anti-virus que tem opção de
+QUEIMAR UM PENDRIVE e BUTAR DIRETO DELE
+
+o anti-virus roda antes do sistema rodar
+NÃO tem como SE ESCONDER
+
+pesquise mais
+
+
+
+
+NÃO BAIXE PIRATARIA
+e os meus jogos e apps ??
+
+pelo menos tenha um PC em uma REDE ISOLADA que usa SÓ PRA JOGAR !!
+
+
+RANSOMWARE -ficou mais famoso
+eles ficam trabalhando escondidos no seu
+pc  sem vc percebe e vao encriptando seus dados
+
+ai DO NADA
+aparece uma mensagem que só vao manda 
+a chave para vc desencriptar seus dados
+se der uma quantia em dinheiro
+
+JÁ ERA
+PERDEU !!
+
+unica garantia de se defender é ter 
+  BACKUP
+e estar atualizado
+
+e ter versoes antigas 
+ -seu backup pode entar encriptado por
+  eles
+  
+  
+  
+ 
+usar SISTEMA DE ARQUIVO com suporte 
+SNAPSHOT
+ 
+ SNAPSHOT  - sistema que faz backup de 
+ varias versões 
+ 
+
+APPS com isso 
+
+LINUX
+  -Timeshift
+  -pesquise
+  
+WINDONS 
+serviços que tenham SNAPSHOT
+
+  -Backblase
+   depende da conexão de internet
+   
+   
+é melhor BACKUP fisico e local
+
+não instale APP ESTRANHO 
+se quiser muito 
+use um virtual box 
+
+isolamdo assim o seu pc
+
+
+para rodar maquina virtual
+  -precisa de 16 gb de ram 
+   NO MINIMO
+
+  -quanto mais CORE tive sua CPU 
+   MELHOR ! ter no minimo 8
+   
+   
+se tiver um pc bom para maquina virtual 
+dá pra fazer experimentos destrutivos 
+com o pc e se acontecer algo é so voltar
+
+e tbm
+da pra testar coisas, estudar sobre 
+redes, vunerabilidades
+
+
+
+
+se seu pc n for antigo
+WINDOWS 11 ou 10
+configure sua biospara abilitar duas 
+coisas
+
+  -o TPM (já falou antes)
+  
+  -o Secure Boot
+se algum malware se ejetar em algum
+arquivo do sistema 
+o PROPRIO sistema vai bloquear
+
+
+
+
+PROBLEMA 
+usar drives
+
+sites falsos que tem drives piratas
+
+
+
+
+se tiver notebook
+invista em uma VPN
+   -NORTVPN
+   -EXPRESSVPN
+   ....
+   
+se usa muito rede publica
+USE !!
+tem como pessoas verem seus traficos
+
+e
+
+DNS POISONING
+envenenar o dns que seu pc pede para  
+achar o endereço das coisas
+
+
+
+SEU TRAFICO PODE ESTAR SENDO MONITORADO
+
+   
+
+
+
+
+   
+  
+
+  
+  
+  
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

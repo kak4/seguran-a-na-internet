@@ -1,0 +1,61 @@
+Cap4_Oque é Two-Factor
+
+
+é uma função que recebe um SEGREDO_COMPARTILHADO
+e uma HORA_DO_SISTEMA e gera um CODIGO
+
+SECRET_KEY + MOVING_FACTOR_TIME
+            =
+          CODIGO
+   e encripta para um hash
+
+CODIGO = TOTP(Time-base One-Time Password)
+
+
+-seed- pode ser o segredo compartilhado
+
+
+quando usar essa senha 
+USE RAPIDOO
+só dura 1 min
+
+depois disso muda senha do 2FA
+
+
+
+e o 3 fator 
+usar algo que é seu
+
+
+ -impressão digital
+    -sua face 
+    -seu dedo
+    .....
+    
+    
+SECURE ENCLAVE (no iphone)
+é um ship especializado que guarda os seus 
+dados de impressão digital
+
+TPM(Trusted Platform Module)
+no pc
+
+
+
+
+    
+    
+
+    
+ 
+
+
+
+
+
+
+
+
+
+
+

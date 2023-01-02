@@ -1,0 +1,44 @@
+Cap6_Encripte seus Drives
+
+
+
+se no WINDOWS
+   -BitLocker
+   
+se no MAC
+   -FileVault
+   
+se no LUNUX
+   -LVM (lux)
+
+
+kkk sua senha de login não protege
+     NADA
+
+so tirar o SSD ou MVEM e plugar em outro 
+pc e ter todos os seus dados
+
+
+um bom investigador florence tem 
+tecnicas para conseguir seus dados
+  -pesquise mais
+
+NÃO JOGE SEU HD FORA
+
+
+depois disso tudo 
+ainda da pra criar disco virtuais 
+encriptados dentro do disco
+
+
+usando o veracript
+
+
+
+
+
+
+
+
+
+

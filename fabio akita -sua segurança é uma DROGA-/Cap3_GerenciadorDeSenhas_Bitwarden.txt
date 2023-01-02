@@ -1,0 +1,103 @@
+
+Pra que Servem Gerenciadores de Senhas? 
+Bitwarden.... e outros 
+
+
+COMO FICAR SEGURO??
+se eles ja tem tabelas de senhas encriptadas 
+com o salt já inserido
+
+
+ -USAR SENHAS NÃO DERIVADAS DE DICIONARIO
+ senhas aleatorias
+ não tem como achar no dicionario 
+ 
+ NÃO EMBARALHE SIMBOLOS E NUMEROS COM LETRAS
+ eles ja pensaram nisso e ja pre-computaram
+
+ SENHAS ALEATORIAS 
+
+
+ -SENHAS LONGAS   
+ usar o maximo de caracteres
+ 
+ cada fez que aumenta um espaço a mais de caracter
+ o hacker precisar computar 26 + 26 )palavras 
+                             +10 )numeros
+                           e os simbolos
+                           
+ entt...
+ vc não pode ser capaz de DECORAR A SENHA
+ 
+ 
+ 
+ GERENCIADOR DE SENHAR
+ 
+ - pode usar um gerenciador de navegador
+ MAS POO!!
+ vas estar armazenado em um gerenciador deles
+ 
+ mas é melhor que usar senha com lit codes
+ 
+ 
+ usar o app BITWARDEN
+ um gerenciador de senhas
+ - tem proprior gerenciador
+ 
+ tbm tem outros
+ UNEPASSWORD
+ LASTPASS
+ 
+ 
+ usar esses apps 
+ e 
+ gerar essas senhas para CADA SITE
+ 
+ ALTERE SUA SENHA DE TODAS 
+ 
+ NÃO USE A MESMA SENHA PARA TUDO 
+ 
+ 
+ só precisa decorar a senha mestra
+ que abre o gerenciador
+ 
+ use uma PASSPHRASE
+ e não PASSWORD
+use uma frase longa 
+
+
+
+habilite 2FA (Two-Factor Authentication)
+autenticação de dois fatores
+
+é aquele codigo que muda a cada 30 segundo
+que recebe via SMS ou usa um app
+
+normalmente GOOGLE AUTHENTICATOR sempre dá ruim
+
+
+normalmente aqueles app
+BITWARDEN , UNEPASSWORD ,LASTPASS e parecidos
+já vem com essa tecnologia
+
+
+não recomendo usar por SMS
+alguem pode usar seu ship
+
+ - pode tirar o ship e colocar em outro cllr 
+ e pega o seu numero!
+ 
+ - usar engeiaria social e enganar a atendente da 
+ operadora
+ 
+ 
+ NN USE SMS !!
+ 
+
+ 
+ 
+ 
+                           
+
+
+

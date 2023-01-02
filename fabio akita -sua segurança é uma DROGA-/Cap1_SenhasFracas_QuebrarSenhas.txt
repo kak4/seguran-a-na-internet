@@ -1,0 +1,54 @@
+
+
+
+limitar senhas é muito ruim 
+
+"senha forte"...
+juntar numeros e palavras?
+troca palavra por numeros? - lit codes
+
+hash = uma impressao digital
+ex: sha512 ...
+
+sera que colocando sua senha dentro desse hash
+vc fica seguro ?
+
+NAO
+
+o hacher usa um programa pra quebrar senhas
+programa deve usa uma mistura...
+programa que gera SENHAS 
+Oq eles usam 
+
+Rainbow tabel
+Ataque de dicionario
+Processamento paralelo de GPU 
+
+para gerar hash e quebrar na Forsa bruta 
+
+em 1 min conseguiu quebrar uma senha de 
+17 caracteres com numeros, letras e simbolos
+especias tudo misturado com oito GPUs GTX1080
+em 2018
+
+sua senha é a mesma em todas ?? 
+sua senha tem so numeros e letras??
+tem menos de 17 caracteres??
+
+
+em janeiro de 2022 uma conta de funcionario 
+interno vasou muitas informasoes de usuarios
+do twiter 
+PROVAVELMENTE SE VC TIVER CONTA LA ....
+
+
+site: haveibeenpwned.com
+ele documenta asoes sobre esses incidentes
+TEM MUITAS CONTAS VASADAS 
+
+
+
+
+
+
+

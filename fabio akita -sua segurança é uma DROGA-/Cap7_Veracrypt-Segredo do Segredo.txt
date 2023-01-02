@@ -1,0 +1,35 @@
+Cap7_Veracrypt-Segredo do Segredo
+
+
+
+Veracript (antigo truecript)
+serve para criar discos virtuais mais 
+seguros do mundo
+
+é encriptado e ainda tem uma parte do  
+disco encondida
+  - tem duas partes  
+      1(uma falsa)
+      2(uma escondida)
+      
+      
+      
+      
+da uma olhada melhor nesse app
+      
+       ele faz um exemplo de como fazer
+       
+       
+      
+  
+
+
+
+
+
+
+
+
+
+
+

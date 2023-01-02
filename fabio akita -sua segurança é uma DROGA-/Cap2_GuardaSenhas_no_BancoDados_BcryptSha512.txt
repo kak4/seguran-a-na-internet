@@ -1,0 +1,93 @@
+Como se Guarda Senhas no Banco de Dados? 
+bcrypt vs sha512
+
+
+por baixo dos panos....
+
+um site bom vai usar para guarda duas senhas 
+uma DERIVASAO DE CHAVES 
+
+DERIVASAO DE CHAVES = bcrypt,PBKDF2,Argon2...
+
+qual a diferensa bcrypt e  sha512 ??
+
+O TEMPO DE EXECUSAO
+
+sha512 e` mais eficiente(+ rapido )
+
+justamente por ser eficiente nao serve para 
+proteger senhas 
+
+quando um hacher vai usar Forsa bruta 
+ele precisa ir gerando os hash
+se o hash for mais RAPIDO
+sera rapido para ele gerar seu hash 
+ 
+ 
+MAS ...
+
+se for um bcrypt PBKDF2 vai ser lento de rodar
+VAI DIFICULTAR O TRABALHO DO HACKER
+vc vai ter usa senha gerada mais lentamente
+SIM .... mas e` o preso q se paga
+
+sempre DIFICULTE a vida do hacker
+bcrypt PBKDF2
+
+
+
+
+
+>salt< = é um numero aleatorio
+o hash no caso seria sua senha + o >salt<
+
+ex
+no mesmo site os usuraios usam a MESMA SENHA
+MESMA SENHA = MESMO HASH
+se o hacher achar de um usuario
+acha o dos outros tambem
+
+porem...
+
+se tiver um >salt< (numero aleatorio) para 
+cada usuario
+agora DIFICULTAMOS A VIDA DO HACHER
+se ele achar uma 
+ele precisa fazer o mesmo trabalho para achar 
+a outra... nao tem como saber se e` a mesma
+ou nao 
+
+HASH DIFERENTES POR CAUSA DO >salt<
+
+
+
+hacher nao é burro ....
+eles sabem que usam >salt<
+
+eles geram TABELAS PRE-COMPUTADAS
+pegam um dicionario de palavras e geram um
+bcrypt de todas essas letras 
+pega as palavras com todos os tipos de 
+caracteres aleatorios gerados pelo SALT e 
+converte em litcodes 
+
+
+TABELA DE HASHes PRE-COMPUTADOS
+                =
+          RAINBOW TABLES
+
+em vez de ficar gerando hash de palavras +
+caracteres aleatorios 
+
+é melhor
+
+comprar tudo JÁ PRONTO
+todas as senhas ja encriptadas
+
+
+e so cruzar com o banco de dados vasados 
+
+
+
+entao COMO FICAR SEGURO ???
+

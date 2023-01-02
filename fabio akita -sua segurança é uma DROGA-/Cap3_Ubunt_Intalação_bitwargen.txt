@@ -1,0 +1,12 @@
+video https://invidious.snopyta.org/watch?v=1YzLHIQ-QyE
+https://www.youtube.com/watch?v=1YzLHIQ-QyE
+
+se não funcionar pesquise outro video 
+deve estar desatualizado
+
+
+snap search bitwarden
+
+sudo snap install bitwarden 
+
+
